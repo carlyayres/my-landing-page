@@ -1,0 +1,63 @@
+h1 {
+	color: blue;
+	text-align: center;
+	font-size: 80;
+	font-family: arial;
+}
+
+body {
+	background: url("http://www.sightunseen.com/content/uploads/2015/08/BlackStatic_Desktop1280x1024-728x582.jpg");
+	background-size: 100%;
+	text-align: center;
+	color: red;
+	font-size: 20;
+	font-family: arial;
+	font-style: bold;
+}
+
+img {
+	border-radius: 50%;
+	border: 10px dotted purple;
+}
+
+ul {
+	list-style-position: inside;
+	border: 1px solid white;
+}
+
+
+#excited {
+	font-weight: bold;
+	color: red;
+}
+
+.demo {
+	text-decoration: underline;
+}
+
+header {
+	text-align: center;
+}
+
+
+.nav-items {
+	display: inline;
+}
+
+#navigation {
+	border: none;
+}
+
+#left-div {
+	height: 500px;
+	width: 49%;
+	display: inline-block;
+	background-color: blue;
+}
+
+#right-div {
+	height: 500px;
+	width: 50%;
+	display: inline-block;
+	background-color: red;
+}
